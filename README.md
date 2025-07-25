@@ -133,4 +133,4 @@ Made with ❤️ for desi humor fans.
 ---
 
 🔗 **Live API:**  
-[https://hindi-jokes-api-c126.onrender.com]
+[https://hindi-jokes-api-c126.onrender.com/random/joke]
