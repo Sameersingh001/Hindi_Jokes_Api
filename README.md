@@ -1,7 +1,23 @@
 
 # 😂 Hindi Jokes API
 
+# 😂 Hindi Jokes API – Free RESTful JSON API for Jokes in Hindi
+
+
 Welcome to the **Hindi Jokes API**, a RESTful service that delivers fun and hilarious Hindi jokes. Easily fetch all jokes, search by ID, category, or get a random joke. Made for fun projects, bots, and entertainment apps!
+
+This is a free and open-source **Hindi Jokes API** that serves **funny and clean jokes** in Hindi via **RESTful JSON endpoints**. Great for apps, websites, chatbots, and more.
+
+
+
+## ✨ Features
+
+- 200+ hilarious **Hindi jokes**
+- Clean and family-friendly content
+- Free and easy-to-use **Joke API**
+- Works with **JSON**
+- Use in chatbots, mobile apps, and websites
+
 
 ---
 
@@ -103,6 +119,11 @@ Sorry, the joke you are looking for does not exist. Please check the ID or categ
 - Deployed on Render
 
 ---
+
+
+---
+**Tags:** Hindi Jokes API, Free joke API, RESTful joke service, JSON joke API, Desi jokes, Indian comedy API, Open source API, Random Hindi jokes
+
 
 ## ✨ Author
 
